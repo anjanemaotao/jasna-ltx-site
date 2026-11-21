@@ -4,5 +4,5 @@ pages_build_output_dir = "."
 
 [[kv_namespaces]]
 binding = "LTX_KV"
-id = "a803c3a1aed942e8b8435b6eb73765e3"
-preview_id = "3f268458897b4565a971a6f0d69a3848"
+id = "f32f3606df3a4f91bfd38dfb78a47268"
+preview_id = "fcb69d9ca2ee4f44b6810c25a6df2def"
